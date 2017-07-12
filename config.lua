@@ -1,6 +1,6 @@
 return {
-	bot_api_key = 'Token',
-	admin = Id Admin,
+	bot_api_key = '442497765:AAHeGRsegNQJWw8NIh_KwmYBsNkkuxTT8Oo',
+	admin = 157299861,
 	plugins = {
 		'Admin.lua',
 		'Tools.lua',
