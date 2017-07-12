@@ -41,7 +41,7 @@
 
 
 
- git clone https://github.com/MrAmirHossein/FunTg
+ git clone https://github.com/CeWeR/FunTg
  
  
  توکن و ایدی سودو در فایل کانفیگ قرار داده شود
